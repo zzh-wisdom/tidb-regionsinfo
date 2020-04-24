@@ -1,0 +1,1178 @@
+{
+  "count": 39,
+  "regions": [
+    {
+      "id": 104,
+      "start_key": "7480000000000000FF335F698000000000FF0000010380000000FF000C21AF03800000FF00000013A2000000FC",
+      "end_key": "7480000000000000FF335F728000000000FF0429260000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 26
+      },
+      "peers": [
+        {
+          "id": 105,
+          "store_id": 1
+        },
+        {
+          "id": 106,
+          "store_id": 4
+        },
+        {
+          "id": 107,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 106,
+        "store_id": 4
+      },
+      "written_bytes": 9822582,
+      "written_keys": 137003,
+      "approximate_size": 77,
+      "approximate_keys": 537516
+    },
+    {
+      "id": 108,
+      "start_key": "7480000000000000FF2D5F698000000000FF0000010380000000FF000C49F903800000FF0000030B73000000FC",
+      "end_key": "7480000000000000FF2D5F728000000000FF03F8CE0000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 24
+      },
+      "peers": [
+        {
+          "id": 109,
+          "store_id": 1
+        },
+        {
+          "id": 110,
+          "store_id": 4
+        },
+        {
+          "id": 111,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 110,
+        "store_id": 4
+      },
+      "written_bytes": 739318,
+      "written_keys": 10353,
+      "approximate_size": 73,
+      "approximate_keys": 1451632
+    },
+    {
+      "id": 28,
+      "start_key": "7480000000000000FF0D00000000000000F8",
+      "end_key": "7480000000000000FF0F00000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 7
+      },
+      "peers": [
+        {
+          "id": 29,
+          "store_id": 1
+        },
+        {
+          "id": 30,
+          "store_id": 4
+        },
+        {
+          "id": 31,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 30,
+        "store_id": 4
+      },
+      "read_bytes": 22565,
+      "read_keys": 255,
+      "approximate_size": 1,
+      "approximate_keys": 1397
+    },
+    {
+      "id": 36,
+      "start_key": "7480000000000000FF1100000000000000F8",
+      "end_key": "7480000000000000FF1300000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 9
+      },
+      "peers": [
+        {
+          "id": 37,
+          "store_id": 1
+        },
+        {
+          "id": 38,
+          "store_id": 4
+        },
+        {
+          "id": 39,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 37,
+        "store_id": 1
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 44,
+      "start_key": "7480000000000000FF1500000000000000F8",
+      "end_key": "7480000000000000FF1700000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 11
+      },
+      "peers": [
+        {
+          "id": 45,
+          "store_id": 1
+        },
+        {
+          "id": 46,
+          "store_id": 4
+        },
+        {
+          "id": 47,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 45,
+        "store_id": 1
+      },
+      "written_bytes": 409204,
+      "read_bytes": 9840856,
+      "written_keys": 124,
+      "read_keys": 2167,
+      "approximate_size": 1
+    },
+    {
+      "id": 56,
+      "start_key": "7480000000000000FF1B00000000000000F8",
+      "end_key": "7480000000000000FF1D00000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 14
+      },
+      "peers": [
+        {
+          "id": 57,
+          "store_id": 1
+        },
+        {
+          "id": 58,
+          "store_id": 4
+        },
+        {
+          "id": 59,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 58,
+        "store_id": 4
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 80,
+      "start_key": "7480000000000000FF2700000000000000F8",
+      "end_key": "7480000000000000FF2900000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 20
+      },
+      "peers": [
+        {
+          "id": 81,
+          "store_id": 1
+        },
+        {
+          "id": 82,
+          "store_id": 4
+        },
+        {
+          "id": 83,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 81,
+        "store_id": 1
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 92,
+      "start_key": "7480000000000000FF2F5F728000000000FF0A30A20000000000FA",
+      "end_key": "7480000000000000FF3300000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 25
+      },
+      "peers": [
+        {
+          "id": 93,
+          "store_id": 1
+        },
+        {
+          "id": 94,
+          "store_id": 4
+        },
+        {
+          "id": 95,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 94,
+        "store_id": 4
+      },
+      "written_bytes": 121249239,
+      "written_keys": 664182,
+      "approximate_size": 105,
+      "approximate_keys": 532372
+    },
+    {
+      "id": 112,
+      "start_key": "7480000000000000FF2F5F698000000000FF0000010380000000FF000BC71903800000FF0000065065000000FC",
+      "end_key": "7480000000000000FF2F5F728000000000FF03D0FA0000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 25
+      },
+      "peers": [
+        {
+          "id": 113,
+          "store_id": 1
+        },
+        {
+          "id": 114,
+          "store_id": 4
+        },
+        {
+          "id": 115,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 114,
+        "store_id": 4
+      },
+      "written_bytes": 591999,
+      "written_keys": 7619,
+      "approximate_size": 136,
+      "approximate_keys": 1493659
+    },
+    {
+      "id": 128,
+      "start_key": "7480000000000000FF2D5F728000000000FF03F8CE0000000000FA",
+      "end_key": "7480000000000000FF2D5F728000000000FF0A58760000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 24
+      },
+      "peers": [
+        {
+          "id": 129,
+          "store_id": 1
+        },
+        {
+          "id": 130,
+          "store_id": 4
+        },
+        {
+          "id": 131,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 130,
+        "store_id": 4
+      },
+      "written_bytes": 35,
+      "written_keys": 1,
+      "approximate_size": 93,
+      "approximate_keys": 415260
+    },
+    {
+      "id": 52,
+      "start_key": "7480000000000000FF1900000000000000F8",
+      "end_key": "7480000000000000FF1B00000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 13
+      },
+      "peers": [
+        {
+          "id": 53,
+          "store_id": 1
+        },
+        {
+          "id": 54,
+          "store_id": 4
+        },
+        {
+          "id": 55,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 53,
+        "store_id": 1
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 96,
+      "start_key": "7480000000000000FF335F728000000000FF10E8760000000000FA",
+      "end_key": "7480000000000000FF3500000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 27
+      },
+      "peers": [
+        {
+          "id": 97,
+          "store_id": 1
+        },
+        {
+          "id": 98,
+          "store_id": 4
+        },
+        {
+          "id": 99,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 98,
+        "store_id": 4
+      },
+      "written_bytes": 85483014,
+      "written_keys": 468092,
+      "approximate_size": 152,
+      "approximate_keys": 662893
+    },
+    {
+      "id": 64,
+      "start_key": "7480000000000000FF1F00000000000000F8",
+      "end_key": "7480000000000000FF2100000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 16
+      },
+      "peers": [
+        {
+          "id": 65,
+          "store_id": 1
+        },
+        {
+          "id": 66,
+          "store_id": 4
+        },
+        {
+          "id": 67,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 65,
+        "store_id": 1
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 84,
+      "start_key": "7480000000000000FF2900000000000000F8",
+      "end_key": "7480000000000000FF2D00000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 21
+      },
+      "peers": [
+        {
+          "id": 85,
+          "store_id": 1
+        },
+        {
+          "id": 86,
+          "store_id": 4
+        },
+        {
+          "id": 87,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 87,
+        "store_id": 5
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 116,
+      "start_key": "7480000000000000FF2F5F728000000000FF03D0FA0000000000FA",
+      "end_key": "7480000000000000FF2F5F728000000000FF0A30A20000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 25
+      },
+      "peers": [
+        {
+          "id": 117,
+          "store_id": 1
+        },
+        {
+          "id": 118,
+          "store_id": 4
+        },
+        {
+          "id": 119,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 119,
+        "store_id": 5
+      },
+      "written_bytes": 23,
+      "written_keys": 1,
+      "approximate_size": 94,
+      "approximate_keys": 419939
+    },
+    {
+      "id": 140,
+      "start_key": "7480000000000000FF3500000000000000F8",
+      "end_key": "7480000000000000FF355F698000000000FF0000010380000000FF000BC8F103800000FF00000FB4CB000000FC",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 26
+      },
+      "peers": [
+        {
+          "id": 141,
+          "store_id": 1
+        },
+        {
+          "id": 142,
+          "store_id": 4
+        },
+        {
+          "id": 143,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 143,
+        "store_id": 5
+      },
+      "approximate_size": 63,
+      "approximate_keys": 934786
+    },
+    {
+      "id": 148,
+      "start_key": "7480000000000000FF355F728000000000FF0A89520000000000FA",
+      "end_key": "7480000000000000FF355F728000000000FF10E8FA0000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 27
+      },
+      "peers": [
+        {
+          "id": 149,
+          "store_id": 1
+        },
+        {
+          "id": 150,
+          "store_id": 4
+        },
+        {
+          "id": 151,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 150,
+        "store_id": 4
+      },
+      "approximate_size": 95,
+      "approximate_keys": 414736
+    },
+    {
+      "id": 152,
+      "start_key": "7480000000000000FF335F728000000000FF0A88CE0000000000FA",
+      "end_key": "7480000000000000FF335F728000000000FF10E8760000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 27
+      },
+      "peers": [
+        {
+          "id": 153,
+          "store_id": 1
+        },
+        {
+          "id": 154,
+          "store_id": 4
+        },
+        {
+          "id": 155,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 154,
+        "store_id": 4
+      },
+      "written_bytes": 35,
+      "written_keys": 1,
+      "approximate_size": 95,
+      "approximate_keys": 414736
+    },
+    {
+      "id": 2,
+      "start_key": "7480000000000000FF355F728000000000FF10E8FA0000000000FA",
+      "end_key": "",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 27
+      },
+      "peers": [
+        {
+          "id": 3,
+          "store_id": 1
+        },
+        {
+          "id": 6,
+          "store_id": 4
+        },
+        {
+          "id": 7,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 6,
+        "store_id": 4
+      },
+      "written_bytes": 84723524,
+      "written_keys": 463974,
+      "approximate_size": 152,
+      "approximate_keys": 663517
+    },
+    {
+      "id": 32,
+      "start_key": "7480000000000000FF0F00000000000000F8",
+      "end_key": "7480000000000000FF1100000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 8
+      },
+      "peers": [
+        {
+          "id": 33,
+          "store_id": 1
+        },
+        {
+          "id": 34,
+          "store_id": 4
+        },
+        {
+          "id": 35,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 33,
+        "store_id": 1
+      },
+      "written_bytes": 442,
+      "read_bytes": 923,
+      "written_keys": 5,
+      "read_keys": 9,
+      "approximate_size": 1,
+      "approximate_keys": 13
+    },
+    {
+      "id": 68,
+      "start_key": "7480000000000000FF2100000000000000F8",
+      "end_key": "7480000000000000FF2300000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 17
+      },
+      "peers": [
+        {
+          "id": 69,
+          "store_id": 1
+        },
+        {
+          "id": 70,
+          "store_id": 4
+        },
+        {
+          "id": 71,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 70,
+        "store_id": 4
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 124,
+      "start_key": "7480000000000000FF335F728000000000FF0429260000000000FA",
+      "end_key": "7480000000000000FF335F728000000000FF0A88CE0000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 26
+      },
+      "peers": [
+        {
+          "id": 125,
+          "store_id": 1
+        },
+        {
+          "id": 126,
+          "store_id": 4
+        },
+        {
+          "id": 127,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 126,
+        "store_id": 4
+      },
+      "written_bytes": 35,
+      "read_bytes": 100245480,
+      "written_keys": 1,
+      "read_keys": 417704,
+      "approximate_size": 94,
+      "approximate_keys": 427992
+    },
+    {
+      "id": 132,
+      "start_key": "7480000000000000FF2D00000000000000F8",
+      "end_key": "7480000000000000FF2D5F698000000000FF0000010380000000FF000C49F903800000FF0000030B73000000FC",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 24
+      },
+      "peers": [
+        {
+          "id": 133,
+          "store_id": 1
+        },
+        {
+          "id": 134,
+          "store_id": 4
+        },
+        {
+          "id": 135,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 134,
+        "store_id": 4
+      },
+      "written_bytes": 40500981,
+      "written_keys": 524250,
+      "approximate_size": 67,
+      "approximate_keys": 1044142
+    },
+    {
+      "id": 40,
+      "start_key": "7480000000000000FF1300000000000000F8",
+      "end_key": "7480000000000000FF1500000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 10
+      },
+      "peers": [
+        {
+          "id": 41,
+          "store_id": 1
+        },
+        {
+          "id": 42,
+          "store_id": 4
+        },
+        {
+          "id": 43,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 41,
+        "store_id": 1
+      },
+      "written_bytes": 8978,
+      "read_bytes": 25942,
+      "written_keys": 129,
+      "read_keys": 410,
+      "approximate_size": 1
+    },
+    {
+      "id": 60,
+      "start_key": "7480000000000000FF1D00000000000000F8",
+      "end_key": "7480000000000000FF1F00000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 15
+      },
+      "peers": [
+        {
+          "id": 61,
+          "store_id": 1
+        },
+        {
+          "id": 62,
+          "store_id": 4
+        },
+        {
+          "id": 63,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 63,
+        "store_id": 5
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 72,
+      "start_key": "7480000000000000FF2300000000000000F8",
+      "end_key": "7480000000000000FF2500000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 18
+      },
+      "peers": [
+        {
+          "id": 73,
+          "store_id": 1
+        },
+        {
+          "id": 74,
+          "store_id": 4
+        },
+        {
+          "id": 75,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 73,
+        "store_id": 1
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 88,
+      "start_key": "7480000000000000FF2D5F728000000000FF10B81E0000000000FA",
+      "end_key": "7480000000000000FF2F00000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 25
+      },
+      "peers": [
+        {
+          "id": 89,
+          "store_id": 1
+        },
+        {
+          "id": 90,
+          "store_id": 4
+        },
+        {
+          "id": 91,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 90,
+        "store_id": 4
+      },
+      "written_bytes": 107630370,
+      "written_keys": 588979,
+      "approximate_size": 164,
+      "approximate_keys": 714999
+    },
+    {
+      "id": 136,
+      "start_key": "7480000000000000FF3300000000000000F8",
+      "end_key": "7480000000000000FF335F698000000000FF0000010380000000FF000C21AF03800000FF00000013A2000000FC",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 26
+      },
+      "peers": [
+        {
+          "id": 137,
+          "store_id": 1
+        },
+        {
+          "id": 138,
+          "store_id": 4
+        },
+        {
+          "id": 139,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 138,
+        "store_id": 4
+      },
+      "approximate_size": 65,
+      "approximate_keys": 943499
+    },
+    {
+      "id": 8,
+      "start_key": "",
+      "end_key": "7480000000000000FF0500000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 2
+      },
+      "peers": [
+        {
+          "id": 9,
+          "store_id": 1
+        },
+        {
+          "id": 10,
+          "store_id": 4
+        },
+        {
+          "id": 11,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 9,
+        "store_id": 1
+      },
+      "written_bytes": 1680,
+      "read_bytes": 9606,
+      "written_keys": 30,
+      "read_keys": 153,
+      "approximate_size": 1,
+      "approximate_keys": 363
+    },
+    {
+      "id": 12,
+      "start_key": "7480000000000000FF0500000000000000F8",
+      "end_key": "7480000000000000FF0700000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 3
+      },
+      "peers": [
+        {
+          "id": 13,
+          "store_id": 1
+        },
+        {
+          "id": 14,
+          "store_id": 4
+        },
+        {
+          "id": 15,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 13,
+        "store_id": 1
+      },
+      "read_bytes": 172,
+      "read_keys": 1,
+      "approximate_size": 1,
+      "approximate_keys": 2
+    },
+    {
+      "id": 16,
+      "start_key": "7480000000000000FF0700000000000000F8",
+      "end_key": "7480000000000000FF0900000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 4
+      },
+      "peers": [
+        {
+          "id": 17,
+          "store_id": 1
+        },
+        {
+          "id": 18,
+          "store_id": 4
+        },
+        {
+          "id": 19,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 17,
+        "store_id": 1
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 20,
+      "start_key": "7480000000000000FF0900000000000000F8",
+      "end_key": "7480000000000000FF0B00000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 5
+      },
+      "peers": [
+        {
+          "id": 21,
+          "store_id": 1
+        },
+        {
+          "id": 22,
+          "store_id": 4
+        },
+        {
+          "id": 23,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 21,
+        "store_id": 1
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 48,
+      "start_key": "7480000000000000FF1700000000000000F8",
+      "end_key": "7480000000000000FF1900000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 12
+      },
+      "peers": [
+        {
+          "id": 49,
+          "store_id": 1
+        },
+        {
+          "id": 50,
+          "store_id": 4
+        },
+        {
+          "id": 51,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 51,
+        "store_id": 5
+      },
+      "written_bytes": 710128,
+      "read_bytes": 280880,
+      "written_keys": 6415,
+      "read_keys": 2298,
+      "approximate_size": 1
+    },
+    {
+      "id": 144,
+      "start_key": "7480000000000000FF2F00000000000000F8",
+      "end_key": "7480000000000000FF2F5F698000000000FF0000010380000000FF000BC71903800000FF0000065065000000FC",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 25
+      },
+      "peers": [
+        {
+          "id": 145,
+          "store_id": 1
+        },
+        {
+          "id": 146,
+          "store_id": 4
+        },
+        {
+          "id": 147,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 147,
+        "store_id": 5
+      },
+      "approximate_size": 74,
+      "approximate_keys": 1058071
+    },
+    {
+      "id": 24,
+      "start_key": "7480000000000000FF0B00000000000000F8",
+      "end_key": "7480000000000000FF0D00000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 6
+      },
+      "peers": [
+        {
+          "id": 25,
+          "store_id": 1
+        },
+        {
+          "id": 26,
+          "store_id": 4
+        },
+        {
+          "id": 27,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 27,
+        "store_id": 5
+      },
+      "approximate_size": 1
+    },
+    {
+      "id": 76,
+      "start_key": "7480000000000000FF2500000000000000F8",
+      "end_key": "7480000000000000FF2700000000000000F8",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 19
+      },
+      "peers": [
+        {
+          "id": 77,
+          "store_id": 1
+        },
+        {
+          "id": 78,
+          "store_id": 4
+        },
+        {
+          "id": 79,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 77,
+        "store_id": 1
+      },
+      "written_bytes": 2170,
+      "written_keys": 26,
+      "approximate_size": 1
+    },
+    {
+      "id": 100,
+      "start_key": "7480000000000000FF355F698000000000FF0000010380000000FF000BC8F103800000FF00000FB4CB000000FC",
+      "end_key": "7480000000000000FF355F728000000000FF0429AA0000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 26
+      },
+      "peers": [
+        {
+          "id": 101,
+          "store_id": 1
+        },
+        {
+          "id": 102,
+          "store_id": 4
+        },
+        {
+          "id": 103,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 103,
+        "store_id": 5
+      },
+      "written_bytes": 8944044,
+      "written_keys": 124995,
+      "approximate_size": 82,
+      "approximate_keys": 573961
+    },
+    {
+      "id": 120,
+      "start_key": "7480000000000000FF355F728000000000FF0429AA0000000000FA",
+      "end_key": "7480000000000000FF355F728000000000FF0A89520000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 26
+      },
+      "peers": [
+        {
+          "id": 121,
+          "store_id": 1
+        },
+        {
+          "id": 122,
+          "store_id": 4
+        },
+        {
+          "id": 123,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 122,
+        "store_id": 4
+      },
+      "written_bytes": 35,
+      "written_keys": 1,
+      "approximate_size": 98,
+      "approximate_keys": 453710
+    },
+    {
+      "id": 156,
+      "start_key": "7480000000000000FF2D5F728000000000FF0A58760000000000FA",
+      "end_key": "7480000000000000FF2D5F728000000000FF10B81E0000000000FA",
+      "epoch": {
+        "conf_ver": 5,
+        "version": 25
+      },
+      "peers": [
+        {
+          "id": 157,
+          "store_id": 1
+        },
+        {
+          "id": 158,
+          "store_id": 4
+        },
+        {
+          "id": 159,
+          "store_id": 5
+        }
+      ],
+      "leader": {
+        "id": 158,
+        "store_id": 4
+      },
+      "written_bytes": 23,
+      "written_keys": 1,
+      "approximate_size": 95,
+      "approximate_keys": 416047
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+./bin/tidb-dashboard --debug --keyviz-file-start 1574992800 --keyviz-file-end 1575064800 --max-data-delay 10m
