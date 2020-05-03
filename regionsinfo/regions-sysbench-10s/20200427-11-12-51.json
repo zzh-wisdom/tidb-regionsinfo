@@ -1,0 +1,1 @@
+{"count":1,"regions":[{"id":2,"start_key":"","end_key":"","epoch":{"conf_ver":1,"version":1},"peers":[{"id":3,"store_id":1}],"leader":{"id":3,"store_id":1},"written_bytes":0,"read_bytes":0,"written_keys":0,"read_keys":0,"approximate_size":1,"approximate_keys":0}]}

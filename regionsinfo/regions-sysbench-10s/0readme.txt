@@ -1,0 +1,1 @@
+./bin/tidb-dashboard --debug --keyviz-file-start 1587957171 --keyviz-file-end 1587963061 --keyviz-file-path ./bin/regionsinfo/regions-sysbench-10s --keyviz-input-mode 1 --data-interval 10s
